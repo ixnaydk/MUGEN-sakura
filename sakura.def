@@ -1,0 +1,25 @@
+;------------------------|
+; Arquivo DEF - Sakura   |
+; criado por Ixnaydk     |
+;------------------------|
+
+[Info]
+name = "Ixnaydk Sakura"
+displayname = "Sakura"
+versiondate = 10,02,2004
+mugenversion = 04,14,2001
+author = "Ixnaydk"
+pal.defaults = 6,3,4,2,5,1
+
+[Files]
+cmd = sakura.cmd
+cns = sakura.cns
+st = sakura.cns
+stcommon = common1.cns
+sprite = sakura.sff
+anim = sakura.air
+sound = sakura.snd
+pal1 = sakura.act  
+pal2 = sakura2.act
+pal3 = sakura3.act
+

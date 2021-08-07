@@ -1,0 +1,68 @@
+				  Sakura v0.X
+				  """""""""""
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Nome - Sakura
+Jogo - Street Fighter Alpha
+Versão - 0.X
+Autor - Ixnaydk
+Site - www.paodemugen.com.br
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Novidades da Versão 0.X
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Golpes
+
+Básicos
+- Socos: x/y/z
+- Chutes: a/b/c
+- Gancho: F+z
+- Power Charge: s
+
+Counters
+- Alpha Counter: x+a (Enquanto Defende)
+- Beta Counter: y+b (Enquanto Defende)
+- Gamma Counter: z+c (Enquanto Defende)
+
+Especiais
+- Custom Combo: x+b+z
+- Transformação: a+y+c
+- Hadouken: D,DF,F+x/y/z
+- Shoryuken: F,D,DF+x/y/z
+- Tatsumaki Senpuu Kyaku: D,DB,B+a/b/c
+  * Aumentar Velocidade: F
+  * Subir: U
+  * Diminuir Velocidade: B
+
+Especiais - Modo Dark
+- Rasetsu Kyaku: F,D,DF+a/b/c
+- Asura Warp Frente: F,D,DF,x+y/x+z/y+z/a+b/a+c/b+c
+- Asura Warp Trás: B,D,DB,x+y/x+z/y+z/a+b/a+c/b+c
+- Zatsu Knuckle - D,DB,B+x/y/z
+- Tenma Kuujin Kyaku - D,DF,F+a/b/c
+
+Supers
+- Shinkuu Hadouken: D,DB,B,D,DB,B+x/y/x
+- Buuse Tatsumaki: F,DF,D,DB,B+a/b/c
+- Haru Ichiban: D,DB,B,D,DB,B+a/b/c
+- Midare Zakura: D,DF,F,D,DF,F+a/b/c
+
+Supers - Modo Dark
+- Shun Goku Satsu: x,x,F,a,z
+- Tonmanuku: D,DF,F,D,DF,F+x/y/z
+- Diagonal Shinkuu Hadouken: D,DB,B,D,DB,B+x/y/x
+
+Exceeds
+- Kasset Hadouken: D,DF,F,DF,D,DB,B,x
+- Seo Jhoa Kim: D,DB,B,DB,D,DF,F,y
+- Kenmato Obozo: B,DB,D,DF,F,B,z
+
+Team Supers
+- DG & Joram Ryu
+- Midnight Spirit & Trial Force Black Dragon
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Agradecimentos
+
+- Androide, Wynn, Jeff, Midnight Spirit, JaguarHX, Venom, Jão, Dee, Fanta, Sam, Havoc, Incas, Jack Bandit, Perfect Lion, Trial, Jéssica Smoke.
